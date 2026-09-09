@@ -336,7 +336,7 @@ Overall HR Questions
     What are you looking for in your next role?
     Why are you a strong fit for this role, and what differentiates you from other candidates?
     What motivates you as an engineer?
-    Tell me about a project you're particularly proud of and the impact it had.  -- not done 
+    Tell me about a project you're particularly proud of and the impact it had.
     Tell me about a mistake or failure, what you did to fix it, and what you learned.
     Tell me about a disagreement or conflict with a colleague or manager and how you handled it.
     Tell me about a time you took ownership beyond your immediate responsibilities.
