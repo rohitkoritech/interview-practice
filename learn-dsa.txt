@@ -1,8 +1,27 @@
 
+Interview 150
+https://leetcode.com/studyplan/top-interview-150/
+
+Easy 200
+https://leetcode.com/problem-list/dy97mu7i/
+
+Medium 200
+https://leetcode.com/problem-list/dy9d8bbd/
+
+Hard 200
+https://leetcode.com/problem-list/dy9deuqs/
 
 
 Learning DSA 
 
+Segment Tree
+Fenwick Tree (Binary Indexed Tree)
+Mo's Algorithm 
+
+ones = (ones ^ num) & ~twos;
+twos = (twos ^ num) & ~ones;
+
+right & (right - 1) - removes the last set bit 
 
 
 
