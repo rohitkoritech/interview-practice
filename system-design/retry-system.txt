@@ -1,0 +1,10 @@
+
+exponential backoff 
+jitter (half/full)
+maxAttempts 
+timeout per request 
+initialDelay
+retry only on retryable failures
+thread safety 
+timeout/deadline
+thread interrupt handling 

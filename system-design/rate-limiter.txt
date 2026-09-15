@@ -1,0 +1,26 @@
+
+Fixed Window
+     │
+     │ boundary bursts are problematic
+     ↓
+Sliding Window
+     │
+     │ accurate tracking is expensive
+     │ and legitimate bursts may be rejected
+     ↓
+Token Bucket
+     │
+     │ sometimes we actually WANT to smooth
+     │ traffic rather than allow bursts
+     ↓
+Leaky Bucket
+
+Fixed Window: "Just count."
+Sliding Window: "Count accurately over the last N seconds."
+Token Bucket: "Allow controlled bursts."
+Leaky Bucket: "Smooth the output rate."
+
+thread safety 
+
+
+

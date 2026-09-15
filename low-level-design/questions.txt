@@ -1,0 +1,30 @@
+
+must solve questions
+    Money Transfer System	
+    Currency Conversion System
+    Transaction Ledger / Double-Entry Ledger	
+    Design a multi-currency ledger system
+    Payment Processing System	
+    Idempotency Framework	
+    Retry Framework	
+    Circuit Breaker
+    Callback / Webhook Delivery System	
+    Rate Limiter	
+    Message Queue / Pub-Sub System	
+
+high 
+    Currency Exchange Rate Service	
+    Reconciliation System	
+    Account Balance Service	
+    Notification System	
+    Task Scheduler	
+
+good
+    LRU/LFU Cache	
+    Logging Framework	
+
+
+Learn about Wise Scale 
+
+
+
